@@ -1,0 +1,15 @@
+body {
+  background-color: lightcyan;
+}
+
+#tex {
+  color: coral;
+  font-size: 80px;
+  text-align: center;
+}
+
+#prash{
+	color: yellow;
+	background-color: blue;
+	font-size: 100px;
+}
