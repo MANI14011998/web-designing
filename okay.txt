@@ -2,3 +2,4 @@ this is example
 jhgj
 Hi bro! new friend
 hacktober hack: line2
+hacktober hack: line3
